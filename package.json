@@ -1,0 +1,23 @@
+{
+  "name": "@arunkumarcoderelm/use",
+  "version": "1.0.0",
+  "description": "Namespace require for nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunkumarcs/coderelm-use.git"
+  },
+  "keywords": [
+    "namespace",
+    "use"
+  ],
+  "author": "Arunkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arunkumarcs/coderelm-use/issues"
+  },
+  "homepage": "http://coderelm.com/npm/use/"
+}
